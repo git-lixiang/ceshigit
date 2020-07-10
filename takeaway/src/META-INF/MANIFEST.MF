@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Class-Path: spring-aop-5.2.7.RELEASE.jar spring-boot-starter-tomcat-2.
+ 3.1.RELEASE.jar thymeleaf-spring5-3.0.11.RELEASE.jar logback-classic-
+ 1.2.3.jar spring-core-5.2.7.RELEASE.jar spring-boot-starter-json-2.3.
+ 1.RELEASE.jar spring-webmvc-5.2.7.RELEASE.jar thymeleaf-extras-java8t
+ ime-3.0.4.RELEASE.jar jul-to-slf4j-1.7.30.jar spring-boot-starter-thy
+ meleaf-2.3.1.RELEASE.jar spring-boot-autoconfigure-2.3.1.RELEASE.jar 
+ thymeleaf-3.0.11.RELEASE.jar spring-boot-starter-web-2.3.1.RELEASE.ja
+ r snakeyaml-1.26.jar jakarta.annotation-api-1.3.5.jar slf4j-api-1.7.3
+ 0.jar log4j-to-slf4j-2.13.3.jar jakarta.el-3.0.3.jar jackson-databind
+ -2.11.0.jar jackson-module-parameter-names-2.11.0.jar log4j-api-2.13.
+ 3.jar spring-boot-starter-2.3.1.RELEASE.jar spring-boot-starter-loggi
+ ng-2.3.1.RELEASE.jar jackson-core-2.11.0.jar tomcat-embed-core-9.0.36
+ .jar jackson-datatype-jdk8-2.11.0.jar jackson-datatype-jsr310-2.11.0.
+ jar spring-jcl-5.2.7.RELEASE.jar logback-core-1.2.3.jar spring-contex
+ t-5.2.7.RELEASE.jar spring-beans-5.2.7.RELEASE.jar jackson-annotation
+ s-2.11.0.jar spring-boot-2.3.1.RELEASE.jar attoparser-2.0.5.RELEASE.j
+ ar unbescape-1.1.6.RELEASE.jar tomcat-embed-websocket-9.0.36.jar spri
+ ng-web-5.2.7.RELEASE.jar spring-expression-5.2.7.RELEASE.jar
+Main-Class: com.example.takeaway.TakeawayApplication
+
